@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.pigNipple {
+border: 10px outset lightblue;
+text-align: center;
+color: pink;
+background-color:blue;
+}
+</style>
+<body>
+<br>
+<br>
+<div class="pigNipple">
+<div style="box-sizing:border-box;padding:1rem">
+<p style="font-family:verdana;">Answer these 5 questions and you will receive everything you have ever desired in life. You will even be granted the gift of flight, as well as a lifetime supply of peanuts (if you think thats cool). If not, maybe we can give you another legume of your choosing. Or maybe you can just go fuck yourself.</p>
+</div>
+<br>
+<form>
+<h4 style="font-family:verdana;"><label for="favfood">1) What is your favorite food?</label></h4>
+<input id="favfood" name="favfood" type="text">
+
+<br>
+<br>
+<br>
+<h4 style="font-family:verdana;"><label for="favfood">2) What year did you first crumb?</label></h4>
+<input id="favfood" name="favfood" type="date">
+<br>
+<br>
+<br>
+<h4 style="font-family:verdana;">3) How many hot dogs?</h4>
+<input id="hotdogs" name="hotdogs" type="number" step="17">
+<br>
+<br>
+<br>
+<h4 style="font-family:verdana;">4) How do you feel?</h4>
+<span style="font-family:verdana;">Not Good</span>
+<input id="howyoufeel" name="howyoufeel" type="range" step="0.5" min="0" max="5">
+<span style="font-family:verdana;">Pretty Saucey</span>
+<br>
+<br>
+<br>
+<h4 style="font-family:verdana;">5) Respect the <span style="color:red;">P</span><span style="color:green;">o</span>o<span style="color:grey;">b</span><span style="color:orange;"a</span>a<span style="color:yellow;">h</span></h4>
+<a href="https://www.youtube.com/watch?v=KGAAhzreGWw">
+<img src="https://filmsxpress.com/userimages/151/images/poobah.jpg" height=200>
+<br>
+<br>
+<br>
+</div>
+</form>
+</body>
+</html>
+
